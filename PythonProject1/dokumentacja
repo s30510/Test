@@ -1,0 +1,8 @@
+Aplikacja działa się na 3 sekcje (3 główne sceny, które są przełączane trzema przyciskami na dole)
+
+    1.Movies:
+     - wyświetlenie listy filmów
+     - wyszukanie filmu po nazwie
+     - wybranie filmu z listy (każdy element z listy ma -> nazwę , ocenę w skali 10,
+     przycisk pokaż szczególy, przycisk edycji, przycisk usunięcia)
+     -
